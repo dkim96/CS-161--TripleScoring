@@ -1,0 +1,9 @@
+beautifulsoup4==4.4.1
+keras==2.1.5
+h5py==2.7.1
+numpy==1.14.1
+tensorflow==1.6.0
+# May need:
+# pip install --upgrade beautifulsoup4
+# pip install --upgrade html5lib
+

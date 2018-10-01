@@ -1,0 +1,41 @@
+200, sigmoid
+Number of triples        : 30
+Number of subjects       : 7
+
+Accuracy                 : 0.60
+Average Score Difference : 2.73
+Average Kendall's Tau    : 0.52
+Number of triples        : 30
+Number of subjects       : 7
+
+Accuracy                 : 0.50
+Average Score Difference : 3.00
+Average Kendall's Tau    : 0.42
+
+
+200, sigmoid, categorical_crossentropy loss function
+Number of triples        : 30
+Number of subjects       : 7
+
+Accuracy                 : 0.43
+Average Score Difference : 3.20
+Average Kendall's Tau    : 0.49
+
+
+200, tan 
+Number of triples        : 30
+Number of subjects       : 7
+
+Accuracy                 : 0.53
+Average Score Difference : 2.30
+Average Kendall's Tau    : 0.45
+
+
+200,softmax 
+Number of triples        : 30
+Number of subjects       : 7
+
+Accuracy                 : 0.37
+Average Score Difference : 3.80
+Average Kendall's Tau    : 0.49
+
